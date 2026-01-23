@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "overgeared:diamond_upgrade_smithing_template"
+    },
+    "base": {
+        "item": "aquaculture:iron_fishing_rod"
+    },
+    "addition": {
+        "item": "minecraft:diamond"
+    },
+    "result": {
+        "item": "aquaculture:diamond_fishing_rod"
+    }
+}

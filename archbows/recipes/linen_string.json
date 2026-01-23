@@ -1,0 +1,18 @@
+{
+    "type": "overgeared:fletching",
+    "material": {
+      "feather": {
+        "item": "archbows:flax_string"
+      },
+      "shaft": {
+        "item": "archbows:flax_string"
+      },
+      "tip": {
+        "item": "archbows:flax_string"
+      }
+    },
+    "result": {
+      "count": 1,
+      "item": "archbows:linen_string"
+    }
+}

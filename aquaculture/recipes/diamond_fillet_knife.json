@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "overgeared:diamond_upgrade_smithing_template"
+    },
+    "base": {
+        "item": "aquaculture:iron_fillet_knife"
+    },
+    "addition": {
+        "item": "minecraft:diamond"
+    },
+    "result": {
+        "item": "aquaculture:diamond_fillet_knife"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": false,
+    "pattern": [
+      "p  ",
+      " m ",
+      "   "
+    ],
+    "key": {
+      "p": {
+        "item": "irons_spellbooks:permafrost_shard"
+      },
+      "m": {
+        "item": "irons_spellbooks:mithril_scrap"
+      }
+    },
+    "result": {
+      "item": "irons_spellbooks:frostward_ring",
+      "count": 1
+    },
+    "show_notification": true
+  }

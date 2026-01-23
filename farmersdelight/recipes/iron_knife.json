@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "knife"
+    ],
+    "pattern": [
+      " i ",
+      " s ",
+      "   "
+    ],
+    "key": {
+      "s": {
+        "tag": "forge:rods/wooden"
+      },
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      }
+    },
+    "result": {
+      "item": "farmersdelight:iron_knife",
+      "count": 1
+    },
+    "show_notification": true
+  }

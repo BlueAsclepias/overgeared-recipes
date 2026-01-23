@@ -1,0 +1,26 @@
+{
+    "type": "overgeared:fletching",
+    "material": {
+      "feather": {
+        "item": "minecraft:feather"
+      },
+      "shaft": {
+        "tag": "forge:rods/wooden"
+      },
+      "tip": {
+        "tag": "forge:ingots/iron"
+      }
+    },
+    "result": {
+        "count": 4,
+        "item": "apotheosis:broadhead_arrow"
+      },
+      "result_lingering": {
+        "count": 4,
+        "item": "apotheosis:broadhead_arrow"
+      },
+      "result_tipped": {
+        "count": 4,
+        "item": "apotheosis:broadhead_arrow"
+      }
+}

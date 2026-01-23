@@ -1,0 +1,27 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": true,
+    "blueprint": [
+      "shovel"
+    ],
+    "pattern": [
+      " n ",
+      " s ",
+      " s "
+    ],
+    "key": {
+      "n": {
+        "item": "aquaculture:neptunium_ingot"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "aquaculture:neptunium_shovel",
+      "count": 1
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": true,
+    "pattern": [
+      "da ",
+      "a a",
+      " a "
+    ],
+    "key": {
+      "a": {
+        "item": "irons_spellbooks:arcane_ingot"
+      },
+      "d": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "irons_spellbooks:mana_ring",
+      "count": 1
+    },
+    "show_notification": true
+  }

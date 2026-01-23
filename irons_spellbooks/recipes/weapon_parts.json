@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_polishing": false,
+    "has_quality": false,
+    "pattern": [
+      " am",
+      " ma",
+      "m  "
+    ],
+    "key": {
+      "m": {
+        "item": "irons_spellbooks:mithril_ingot"
+      },
+      "a": {
+        "item": "irons_spellbooks:arcane_ingot"
+      }
+    },
+    "result": {
+      "item": "irons_spellbooks:weapon_parts",
+      "count": 1
+    },
+    "show_notification": true
+  }

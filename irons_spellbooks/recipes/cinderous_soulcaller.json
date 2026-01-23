@@ -1,0 +1,27 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 9,
+    "has_polishing": false,
+    "has_quality": false,
+    "pattern": [
+      "csc",
+      "cec",
+      "csc"
+    ],
+    "key": {
+      "e": {
+        "item": "minecraft:echo_shard"
+      },
+      "c": {
+        "item": "irons_spellbooks:cinder_essence"
+      },
+      "s": {
+        "item": "minecraft:netherite_scrap"
+      }
+    },
+    "result": {
+      "item": "irons_spellbooks:cinderous_soulcaller",
+      "count": 1
+    },
+    "show_notification": true
+  }

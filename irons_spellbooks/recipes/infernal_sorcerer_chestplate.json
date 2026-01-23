@@ -1,0 +1,30 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 5,
+    "has_polishing": false,
+    "has_quality": true,
+    "pattern": [
+      "p p",
+      "wrw",
+      " s "
+    ],
+    "key": {
+      "p": {
+        "item": "irons_spellbooks:pyrium_ingot"
+      },
+      "s": {
+        "item": "irons_spellbooks:divine_soulshard"
+      },
+      "w": {
+        "item": "irons_spellbooks:mithril_weave"
+      },
+      "r": {
+        "item": "irons_spellbooks:pyromancer_chestplate"
+      }
+    },
+    "result": {
+      "item": "irons_spellbooks:infernal_sorcerer_chestplate",
+      "count": 1
+    },
+    "show_notification": true
+  }

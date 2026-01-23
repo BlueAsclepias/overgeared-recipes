@@ -1,0 +1,25 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": false,
+    "need_quenching": true,
+    "pattern": [
+      "  s",
+      "iis",
+      "ii "
+    ],
+    "key": {
+      "s": {
+        "tag": "forge:rods/wooden"
+      },
+      "i": {
+        "item": "overgeared:heated_copper_ingot"
+      }
+    },
+    "result": {
+      "item": "herbalbrews:copper_tea_kettle",
+      "count": 1
+    },
+    "show_notification": true
+  }

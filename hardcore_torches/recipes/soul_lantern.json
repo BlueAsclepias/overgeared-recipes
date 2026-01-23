@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": false,
+    "pattern": [
+      "nnn",
+      "nin",
+      "nnn"
+    ],
+    "key": {
+      "n": {
+        "item": "minecraft:iron_nugget"
+      },
+      "i": {
+        "tag": "minecraft:soul_fire_base_blocks"
+      }
+    },
+    "result": {
+      "item": "hardcore_torches:unlit_soul_lantern",
+      "count": 1
+    },
+    "show_notification": true
+  }
