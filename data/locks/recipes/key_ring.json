@@ -1,0 +1,21 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 1,
+    "has_polishing": true,
+    "has_quality": false,
+    "pattern": [
+      " n ",
+      "n n",
+      " n "
+    ],
+    "key": {
+      "n": {
+        "tag": "forge:nuggets/iron"
+      }
+    },
+    "result": {
+      "item": "locks:key_ring",
+      "count": 1
+    },
+    "show_notification": true
+  }

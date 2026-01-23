@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "overgeared:diamond_upgrade_smithing_template"
+    },
+    "base": {
+        "item": "toughasnails:empty_iron_canteen"
+    },
+    "addition": {
+        "item": "minecraft:diamond"
+    },
+    "result": {
+        "item": "toughasnails:empty_diamond_canteen"
+    }
+}

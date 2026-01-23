@@ -1,0 +1,19 @@
+{
+    "type": "overgeared:fletching",
+    "material": {
+      "feather": {
+        "item": "netherexp:phasmo_shard"
+      },
+      "shaft": {
+        "item": "minecraft:arrow"
+      },
+      "tip": {
+        "item": "netherexp:phasmo_shard"
+      }
+    },
+    "result": {
+      "count": 1,
+      "item": "netherexp:phasmo_arrow"
+    }
+   }
+   

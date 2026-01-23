@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": false,
+    "pattern": [
+      "idi",
+      "i i",
+      "iii"
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:nuggets/gold"
+      },
+      "d": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "mca:engagement_ring",
+      "count": 1
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,25 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": false,
+    "need_quenching": true,
+    "pattern": [
+      "i i",
+      "ibi",
+      "iii"
+    ],
+    "key": {
+      "b": {
+        "item": "minecraft:bucket"
+      },
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      }
+    },
+    "result": {
+      "item": "dew_drop_watering_cans:iron_watering_can",
+      "count": 1
+    },
+    "show_notification": true
+  }

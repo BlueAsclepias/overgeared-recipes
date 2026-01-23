@@ -1,0 +1,22 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": false,
+    "need_quenching": true,
+    "pattern": [
+      " n ",
+      "n n",
+      " n "
+    ],
+    "key": {
+      "n": {
+        "item": "overgeared:heated_copper_ingot"
+      }
+    },
+    "result": {
+      "item": "toughasnails:empty_copper_canteen",
+      "count": 1
+    },
+    "show_notification": true
+  }

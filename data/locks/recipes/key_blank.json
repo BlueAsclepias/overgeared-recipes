@@ -1,0 +1,25 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": false,
+    "need_quenching": true,
+    "pattern": [
+      "nn ",
+      "nn ",
+      "i  "
+    ],
+    "key": {
+      "n": {
+        "tag": "forge:nuggets/iron"
+      },
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      }
+    },
+    "result": {
+      "item": "locks:key_blank",
+      "count": 1
+    },
+    "show_notification": true
+  }

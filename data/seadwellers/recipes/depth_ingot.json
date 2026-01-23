@@ -1,0 +1,38 @@
+{
+    "type": "overgeared:nether_alloy_smelting",
+    "category": "misc",
+    "group": "misc",
+    "experience": 1.0,
+    "cookingtime": 400,
+    "ingredients": [
+      {
+        "item": "seadwellers:depth_nugget"
+      },
+      {
+        "item": "seadwellers:depth_nugget"
+      },
+      {
+        "item": "seadwellers:depth_nugget"
+      },
+      {
+        "item": "seadwellers:depth_nugget"
+      },
+      {
+        "item": "seadwellers:aquamarine"
+      },
+      {
+        "item": "seadwellers:aquamarine"
+      },
+      {
+        "item": "seadwellers:aquamarine"
+      },
+      {
+        "item": "seadwellers:aquamarine"
+      }
+    ],
+    "result": {
+      "item": "seadwellers:depth_ingot",
+      "count": 1
+    }
+   }
+   

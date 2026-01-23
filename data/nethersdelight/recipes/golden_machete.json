@@ -1,0 +1,27 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": true,
+    "blueprint": [
+      "machete"
+    ],
+    "pattern": [
+      " ii",
+      " i ",
+      "s  "
+    ],
+    "key": {
+      "s": {
+        "tag": "forge:rods/wooden"
+      },
+      "i": {
+        "tag": "forge:ingots/gold"
+      }
+    },
+    "result": {
+      "item": "nethersdelight:golden_machete",
+      "count": 1
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,27 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_polishing": true,
+    "has_quality": true,
+    "blueprint": [
+      "sword"
+    ],
+    "pattern": [
+      " n ",
+      " n ",
+      " s "
+    ],
+    "key": {
+      "n": {
+        "item": "aquaculture:neptunium_ingot"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "aquaculture:neptunium_sword",
+      "count": 1
+    },
+    "show_notification": true
+  }

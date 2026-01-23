@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": false,
+    "need_quenching": true,
+    "pattern": [
+      "ii ",
+      " sn",
+      "s  "
+    ],
+    "key": {
+      "n": {
+        "tag": "forge:nuggets/iron"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      },
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      }
+    },
+    "result": {
+      "item": "mcwroofs:roofing_hammer",
+      "count": 1
+    },
+    "show_notification": true
+  }

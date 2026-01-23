@@ -1,0 +1,30 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 5,
+    "has_polishing": true,
+    "has_quality": true,
+    "pattern": [
+      "  m",
+      "vi ",
+      "wv "
+    ],
+    "key": {
+      "m": {
+        "item": "irons_spellbooks:mithril_ingot"
+      },
+      "v": {
+        "item": "irons_spellbooks:ice_venom_vial"
+      },
+      "w": {
+        "item": "irons_spellbooks:weapon_parts"
+      },
+      "i": {
+        "item": "minecraft:ice"
+      }
+    },
+    "result": {
+      "item": "irons_spellbooks:boreal_blade",
+      "count": 1
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,25 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": false,
+    "need_quenching": true,
+    "pattern": [
+      "   ",
+      "ipi",
+      "iii"
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      },
+      "p": {
+        "item": "minecraft:heavy_weighted_pressure_plate"
+      }
+    },
+    "result": {
+      "item": "trapsmod:bear_trap",
+      "count": 1
+    },
+    "show_notification": true
+  }

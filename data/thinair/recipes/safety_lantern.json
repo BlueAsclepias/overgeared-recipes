@@ -1,0 +1,25 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": false,
+    "need_quenching": true,
+    "pattern": [
+      "nnn",
+      "nin",
+      "nnn"
+    ],
+    "key": {
+      "n": {
+        "item": "overgeared:heated_copper_ingot"
+      },
+      "i": {
+        "item": "minecraft:redstone_torch"
+      }
+    },
+    "result": {
+      "item": "thinair:safety_lantern",
+      "count": 1
+    },
+    "show_notification": true
+  }

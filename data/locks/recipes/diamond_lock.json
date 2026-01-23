@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "overgeared:diamond_upgrade_smithing_template"
+    },
+    "base": {
+        "item": "locks:steel_lock"
+    },
+    "addition": {
+        "item": "minecraft:diamond_block"
+    },
+    "result": {
+        "item": "locks:diamond_lock"
+    }
+}

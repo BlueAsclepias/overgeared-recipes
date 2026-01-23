@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_polishing": true,
+    "has_quality": false,
+    "need_quenching": true,
+    "pattern": [
+      "nnp",
+      "nnp",
+      "iii"
+    ],
+    "key": {
+      "n": {
+        "tag": "forge:nuggets/iron"
+      },
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      },
+      "p": {
+        "tag": "minecraft:planks"
+      }
+    },
+    "result": {
+      "item": "farm_and_charm:mincer",
+      "count": 1
+    },
+    "show_notification": true
+  }

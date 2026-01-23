@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": false,
+    "pattern": [
+      " d ",
+      " i ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "item": "mca:rose_gold_ingot"
+      },
+      "d": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "mca:engagement_ring_rg",
+      "count": 1
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": false,
+    "pattern": [
+      "i i",
+      "ibi",
+      "iii"
+    ],
+    "key": {
+      "b": {
+        "item": "minecraft:bucket"
+      },
+      "i": {
+        "tag": "forge:ingots/gold"
+      }
+    },
+    "result": {
+      "item": "dew_drop_watering_cans:gold_watering_can",
+      "count": 1
+    },
+    "show_notification": true
+}

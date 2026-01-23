@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+      "fillet_knife"
+    ],
+    "pattern": [
+      "  i",
+      " i ",
+      "s  "
+    ],
+    "key": {
+      "s": {
+        "tag": "forge:rods/wooden"
+      },
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      }
+    },
+    "result": {
+      "item": "aquaculture:iron_fillet_knife",
+      "count": 1
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,32 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 5,
+    "has_polishing": false,
+    "has_quality": false,
+    "needs_minigame": true,
+    "pattern": [
+      "  s",
+      "bbb",
+      " ll"
+    ],
+    "key": {
+      "s": {
+        "item": "minecraft:string"
+      },
+      "b": {
+        "item": "minecraft:iron_block"
+      },
+      "l": {
+        "tag": "minecraft:logs"
+      }
+    },
+    "result": {
+      "item": "smallships:cannon",
+      "count": 1
+    },
+    "result_failed": {
+      "item": "minecraft:iron_block",
+      "count": 2
+    },
+    "show_notification": true
+  }

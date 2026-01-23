@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "overgeared:diamond_upgrade_smithing_template"
+    },
+    "base": {
+        "item": "minecraft:golden_shovel"
+    },
+    "addition": {
+        "item": "seadwellers:depth_ingot"
+    },
+    "result": {
+        "item": "seadwellers:depth_shovel"
+    }
+  }

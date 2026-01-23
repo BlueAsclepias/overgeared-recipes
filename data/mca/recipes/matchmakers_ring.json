@@ -1,0 +1,21 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": false,
+    "pattern": [
+      "iii",
+      "i i",
+      "iii"
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:nuggets/iron"
+      }
+    },
+    "result": {
+      "item": "mca:matchmakers_ring",
+      "count": 1
+    },
+    "show_notification": true
+  }

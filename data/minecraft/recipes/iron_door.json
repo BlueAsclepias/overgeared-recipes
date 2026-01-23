@@ -1,0 +1,22 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": false,
+    "need_quenching": true,
+    "pattern": [
+      "ii ",
+      "ii ",
+      "ii "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:iron_door",
+      "count": 3
+    },
+    "show_notification": true
+  }

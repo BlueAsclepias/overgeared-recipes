@@ -1,0 +1,25 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": false,
+    "need_quenching": true,
+    "pattern": [
+      " i ",
+      "ili",
+      "iii"
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      },
+      "l": {
+        "item": "locks:iron_lock_mechanism"
+      }
+    },
+    "result": {
+      "item": "locks:iron_lock",
+      "count": 1
+    },
+    "show_notification": true
+  }

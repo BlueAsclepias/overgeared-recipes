@@ -1,0 +1,25 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": false,
+    "need_quenching": true,
+    "pattern": [
+      " ii",
+      " si",
+      "s  "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "trapsmod:hammer",
+      "count": 1
+    },
+    "show_notification": true
+  }

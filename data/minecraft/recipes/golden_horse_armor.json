@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 5,
+    "has_polishing": false,
+    "has_quality": true,
+    "blueprint": [
+      "horse armor"
+    ],
+    "pattern": [
+      "i i",
+      "iii",
+      "i i"
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/gold"
+      }
+    },
+    "result": {
+      "item": "minecraft:golden_horse_armor",
+      "count": 1
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": true,
+    "pattern": [
+      " e ",
+      "s  ",
+      "   "
+    ],
+    "key": {
+      "e": {
+        "item": "netherexp:ecto_ingot"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "jadensnetherexpansiondelight:ecto_knife",
+      "count": 1
+    },
+    "show_notification": true
+  }

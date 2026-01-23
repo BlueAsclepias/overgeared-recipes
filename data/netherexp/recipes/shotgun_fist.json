@@ -1,0 +1,27 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 5,
+    "has_polishing": false,
+    "has_quality": false,
+    "pattern": [
+      "   ",
+      "ncs",
+      "n  "
+    ],
+    "key": {
+      "n": {
+        "tag": "forge:ingots/netherite"
+      },
+      "c": {
+        "item": "netherexp:shotgun_core"
+      },
+      "s": {
+        "item": "minecraft:skeleton_skull"
+      }
+    },
+    "result": {
+      "item": "netherexp:shotgun_fist",
+      "count": 1
+    },
+    "show_notification": true
+  }

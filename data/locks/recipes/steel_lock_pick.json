@@ -1,0 +1,21 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": false,
+    "pattern": [
+      "   ",
+      " i ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/steel"
+      }
+    },
+    "result": {
+      "item": "locks:steel_lock_pick",
+      "count": 2
+    },
+    "show_notification": true
+  }

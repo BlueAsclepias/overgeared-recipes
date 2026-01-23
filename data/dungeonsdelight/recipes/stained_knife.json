@@ -1,0 +1,30 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_polishing": true,
+    "has_quality": true,
+    "blueprint": [
+      "knife"
+    ],
+    "pattern": [
+      "sn ",
+      "w  ",
+      "   "
+    ],
+    "key": {
+      "s": {
+        "item": "dungeonsdelight:stained_scrap"
+      },
+      "n": {
+        "item": "minecraft:netherite_scrap"
+      },
+      "w": {
+        "item": "dungeonsdelight:wormroot_tendrils"
+      }
+    },
+    "result": {
+      "item": "dungeonsdelight:stained_knife",
+      "count": 1
+    },
+    "show_notification": true
+  }

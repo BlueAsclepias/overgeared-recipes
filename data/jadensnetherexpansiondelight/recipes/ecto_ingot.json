@@ -1,0 +1,30 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_polishing": false,
+    "has_quality": false,
+    "pattern": [
+      "en ",
+      "qb ",
+      "   "
+    ],
+    "key": {
+      "e": {
+        "item": "netherexp:ectoplasm_bucket"
+      },
+      "n": {
+        "item": "netherexp:netherite_plating"
+      },
+      "q": {
+        "item": "minecraft:quartz"
+      },
+      "b": {
+        "item": "netherexp:wisp_bottle"
+      }
+    },
+    "result": {
+      "item": "jadensnetherexpansiondelight:ecto_ingot",
+      "count": 1
+    },
+    "show_notification": true
+  }
