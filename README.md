@@ -25,9 +25,9 @@ This datapack currently adds compatibility for:
 - **Archbows**
 - **Dungeon’s Delight**
 - **[Let’s Do] Farm & Charm**
+- **[Let’s Do] Herbal Brews**
 - **Farmer’s Delight**
 - **Hardcore Torches**
-- **Herbal Brews**
 - **Iron’s Spells and Spellbooks**
 - **Jaden’s Nether Expansion Delight**
 - **Locks – Unofficial**
@@ -53,7 +53,7 @@ This datapack currently adds compatibility for:
 
 ---
 
-## 📥 Installation
+## Installation
 
 ### Singleplayer
 1. Download or clone this repository
