@@ -1,26 +1,29 @@
 {
     "type": "overgeared:forging",
-    "hammering": 4,
+    "hammering": 3,
     "has_polishing": true,
     "has_quality": true,
     "blueprint": [
-      "fillet_knife"
+        "mattock"
     ],
     "pattern": [
-      "  i",
-      " i ",
-      "s  "
+      "ap ",
+      " s ",
+      " s "
     ],
     "key": {
       "s": {
         "tag": "forge:rods/wooden"
       },
-      "i": {
-        "item": "aquaculture:neptunium_ingot"
+      "a": {
+        "item": "overgeared:golden_axe_head"
+      },
+      "p": {
+        "item": "overgeared:golden_pickaxe_head"
       }
     },
     "result": {
-      "item": "aquaculture:neptunium_fillet_knife",
+      "item": "notreepunching:gold_mattock",
       "count": 1
     },
     "show_notification": true

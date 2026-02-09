@@ -1,26 +1,26 @@
 {
     "type": "overgeared:forging",
-    "hammering": 4,
+    "hammering": 2,
     "has_polishing": true,
     "has_quality": true,
     "blueprint": [
-      "fillet_knife"
+        "knife"
     ],
     "pattern": [
-      "  i",
       " i ",
-      "s  "
+      " s ",
+      "   "
     ],
     "key": {
       "s": {
         "tag": "forge:rods/wooden"
       },
       "i": {
-        "item": "aquaculture:neptunium_ingot"
+        "tag": "forge:ingots/iron"
       }
     },
     "result": {
-      "item": "aquaculture:neptunium_fillet_knife",
+      "item": "notreepunching:iron_knife",
       "count": 1
     },
     "show_notification": true

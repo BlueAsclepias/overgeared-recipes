@@ -1,23 +1,26 @@
 {
     "type": "overgeared:forging",
-    "hammering": 5,
-    "has_polishing": false,
+    "hammering": 2,
+    "has_polishing": true,
     "has_quality": true,
     "blueprint": [
-      "horse_armor"
+        "saw"
     ],
     "pattern": [
-      "i i",
-      "iii",
-      "i i"
+      "  s",
+      " si",
+      "si "
     ],
     "key": {
+      "s": {
+        "tag": "forge:rods/wooden"
+      },
       "i": {
         "tag": "forge:ingots/gold"
       }
     },
     "result": {
-      "item": "minecraft:golden_horse_armor",
+      "item": "notreepunching:gold_saw",
       "count": 1
     },
     "show_notification": true
