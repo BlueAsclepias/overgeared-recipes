@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "crossbow"
+      ],
+    "tier": "stone",
+    "pattern": [
+      "bi ",
+      "i  ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/silver"
+      },
+      "b": {
+        "item": "spartanweaponry:wooden_heavy_crossbow"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:silver_heavy_crossbow",
+      "count": 1
+    },
+    "show_notification": true
+  }

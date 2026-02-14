@@ -1,0 +1,29 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 3,
+  "has_polishing": false,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "shield"
+    ],
+  "tier": "stone",
+  "pattern": [
+    "iii",
+    "isi",
+    " i "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/manasteel"
+    },
+    "s": {
+      "item": "spartanshields:wooden_tower_shield"
+    }
+  },
+  "result": {
+    "item": "spartanshields:manasteel_tower_shield",
+    "count": 1
+  },
+  "show_notification": true
+}

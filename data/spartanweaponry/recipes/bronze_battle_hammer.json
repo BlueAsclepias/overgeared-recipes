@@ -1,0 +1,27 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 6,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "blunt_weapon"
+    ],
+  "pattern": [
+    "iii",
+    "iii",
+    " h "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/bronze"
+    },
+    "h": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:bronze_battle_hammer",
+    "count": 1
+  },
+  "show_notification": true
+}

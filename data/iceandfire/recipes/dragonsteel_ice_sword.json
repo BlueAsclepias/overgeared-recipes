@@ -1,0 +1,27 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 4,
+    "has_quality": true,
+    "blueprint": [
+        "sword"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      " i ",
+      " i ",
+      " b "
+    ],
+    "key": {
+      "i": {
+        "item": "iceandfire:dragonsteel_ice_ingot"
+      },
+      "b": {
+        "item": "iceandfire:witherbone"
+      }
+    },
+    "result": {
+      "item": "iceandfire:dragonsteel_ice_sword",
+      "count": 1
+    },
+    "show_notification": true
+  }

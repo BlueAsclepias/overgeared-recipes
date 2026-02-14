@@ -1,0 +1,23 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "tier": "stone",
+    "pattern": [
+      "   ",
+      "isi",
+      " i "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/gold"
+      },
+      "s": {
+        "item": "minecraft:string"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:medium_quiver_brace",
+      "count": 1
+    },
+    "show_notification": true
+  }

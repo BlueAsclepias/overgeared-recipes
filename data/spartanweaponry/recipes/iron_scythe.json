@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 2,
+  "has_polishing": true,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "pattern": [
+    "ii ",
+    "  i",
+    " p "
+  ],
+  "key": {
+    "i": {
+      "item": "overgeared:heated_iron_ingot"
+    },
+    "p": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:iron_scythe",
+    "count": 1
+  },
+  "show_notification": true
+}

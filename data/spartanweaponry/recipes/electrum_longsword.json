@@ -1,0 +1,29 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 3,
+  "has_polishing": true,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "sword"
+    ],
+  "tier": "stone",
+  "pattern": [
+    " i ",
+    " i ",
+    "ihi"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/electrum"
+    },
+    "h": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:electrum_longsword",
+    "count": 1
+  },
+  "show_notification": true
+}

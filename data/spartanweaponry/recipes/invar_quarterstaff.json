@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 3,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "tier": "above_a",
+  "pattern": [
+    "  i",
+    " p ",
+    "i  "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/invar"
+    },
+    "p": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:invar_quarterstaff",
+    "count": 1
+  },
+  "show_notification": true
+}

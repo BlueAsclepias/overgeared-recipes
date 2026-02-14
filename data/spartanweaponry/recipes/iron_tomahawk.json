@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "thrown"
+      ],
+    "pattern": [
+      "hi ",
+      " i ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      },
+      "h": {
+        "item": "spartanweaponry:handle"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:iron_tomahawk",
+      "count": 1
+    },
+    "show_notification": true
+  }

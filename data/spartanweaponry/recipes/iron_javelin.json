@@ -1,0 +1,27 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 2,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "thrown"
+  ],
+  "pattern": [
+    "   ",
+    "pi ",
+    "   "
+  ],
+  "key": {
+    "i": {
+      "item": "overgeared:heated_iron_ingot"
+    },
+    "p": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:iron_javelin",
+    "count": 1
+  },
+  "show_notification": true
+}

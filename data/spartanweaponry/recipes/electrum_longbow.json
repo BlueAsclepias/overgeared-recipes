@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "bow"
+      ],
+    "tier": "stone",
+    "pattern": [
+      "bi ",
+      "i  ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/electrum"
+      },
+      "b": {
+        "item": "spartanweaponry:wooden_longbow"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:electrum_longbow",
+      "count": 1
+    },
+    "show_notification": true
+  }

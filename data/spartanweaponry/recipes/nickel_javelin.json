@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 1,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "thrown"
+    ],
+  "tier": "stone",
+  "pattern": [
+    "   ",
+    "pi ",
+    "   "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/nickel"
+    },
+    "p": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:nickel_javelin",
+    "count": 1
+  },
+  "show_notification": true
+}

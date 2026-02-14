@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 7,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "blunt_weapon"
+    ],
+  "tier": "above_a",
+  "pattern": [
+    "iii",
+    "iii",
+    " h "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/constantan"
+    },
+    "h": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:constantan_battle_hammer",
+    "count": 1
+  },
+  "show_notification": true
+}

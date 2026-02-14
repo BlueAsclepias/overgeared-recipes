@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 10,
+    "has_quality": true,
+    "blueprint": [
+        "chestplate"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      "i i",
+      "iii",
+      "iii"
+    ],
+    "key": {
+      "i": {
+        "item": "iceandfire:dragonsteel_fire_ingot"
+      }
+    },
+    "result": {
+      "item": "iceandfire:dragonsteel_fire_chestplate",
+      "count": 1
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 4,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "crossbow"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      "bi ",
+      "i  ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "item": "iceandfire:dragonsteel_fire_ingot"
+      },
+      "b": {
+        "item": "spartanfire:dragon_bone_heavy_crossbow"
+      }
+    },
+    "result": {
+      "item": "spartanfire:fire_dragonsteel_heavy_crossbow",
+      "count": 1
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "crossbow"
+      ],
+    "tier": "above_a",
+    "pattern": [
+      "bi ",
+      "i  ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/lead"
+      },
+      "b": {
+        "item": "spartanweaponry:wooden_heavy_crossbow"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:lead_heavy_crossbow",
+      "count": 1
+    },
+    "show_notification": true
+  }

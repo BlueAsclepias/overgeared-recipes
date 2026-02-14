@@ -1,0 +1,29 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 7,
+  "has_polishing": true,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "sword"
+    ],
+  "tier": "above_a",
+  "pattern": [
+    " i ",
+    "iii",
+    "ihi"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/invar"
+    },
+    "h": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:invar_greatsword",
+    "count": 1
+  },
+  "show_notification": true
+}

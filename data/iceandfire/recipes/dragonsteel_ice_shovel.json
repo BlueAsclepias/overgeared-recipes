@@ -1,0 +1,27 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_quality": true,
+    "blueprint": [
+        "shovel"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      " i ",
+      " b ",
+      " b "
+    ],
+    "key": {
+      "i": {
+        "item": "iceandfire:dragonsteel_ice_ingot"
+      },
+      "b": {
+        "item": "iceandfire:witherbone"
+      }
+    },
+    "result": {
+      "item": "iceandfire:dragonsteel_ice_shovel",
+      "count": 1
+    },
+    "show_notification": true
+  }

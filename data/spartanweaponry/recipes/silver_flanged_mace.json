@@ -1,0 +1,31 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "blunt_weapon"
+      ],
+    "tier": "stone",
+    "pattern": [
+      " ii",
+      " si",
+      "h  "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/silver"
+      },
+      "h": {
+        "item": "spartanweaponry:handle"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:silver_flanged_mace",
+      "count": 1
+    },
+    "show_notification": true
+  }

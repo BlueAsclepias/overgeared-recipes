@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 2,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "blunt_weapon"
+    ],
+  "tier": "stone",
+  "pattern": [
+    " i ",
+    "ii ",
+    " h "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/tin"
+    },
+    "h": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:tin_warhammer",
+    "count": 1
+  },
+  "show_notification": true
+}

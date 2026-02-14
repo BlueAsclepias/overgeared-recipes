@@ -1,0 +1,29 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 1,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "polearm"
+      ],
+    "tier": "stone",
+    "pattern": [
+      " i ",
+      " h ",
+      " h "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_copper_ingot"
+      },
+      "h": {
+        "item": "spartanweaponry:pole"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:copper_pike",
+      "count": 1
+    },
+    "show_notification": true
+  }

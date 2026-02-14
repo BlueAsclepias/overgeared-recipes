@@ -1,0 +1,29 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 4,
+  "has_polishing": true,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "sword"
+    ],
+  "tier": "above_b",
+  "pattern": [
+    "  i",
+    " i ",
+    "h  "
+  ],
+  "key": {
+    "i": {
+      "item": "iceandfire:dragonsteel_ice_ingot"
+    },
+    "h": {
+      "item": "spartanfire:witherbone_handle"
+    }
+  },
+  "result": {
+    "item": "spartanfire:ice_dragonsteel_katana",
+    "count": 1
+  },
+  "show_notification": true
+}

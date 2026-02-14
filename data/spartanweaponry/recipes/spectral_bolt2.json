@@ -1,0 +1,18 @@
+{
+    "type": "overgeared:fletching",
+    "material": {
+      "feather": {
+        "item": "minecraft:glow_dust"
+      },
+      "shaft": {
+        "item": "spartanweaponry:bolt"
+      },
+      "tip": {
+        "item": "minecraft:glow_dust"
+      }
+    },
+    "result": {
+        "count": 2,
+        "item": "spartanweaponry:spectral_bolt"
+      }
+}

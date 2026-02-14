@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "thrown"
+      ],
+    "tier": "above_a",
+    "pattern": [
+      "ib ",
+      "   ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/constantan"
+      },
+      "b": {
+        "item": "spartanweaponry:wooden_boomerang"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:constantan_boomerang",
+      "count": 1
+    },
+    "show_notification": true
+  }

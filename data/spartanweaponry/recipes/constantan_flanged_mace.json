@@ -1,0 +1,31 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 4,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "blunt_weapon"
+      ],
+    "tier": "above_a",
+    "pattern": [
+      " ii",
+      " si",
+      "h  "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/constantan"
+      },
+      "h": {
+        "item": "spartanweaponry:handle"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:constantan_flanged_mace",
+      "count": 1
+    },
+    "show_notification": true
+  }

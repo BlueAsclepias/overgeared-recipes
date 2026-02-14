@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 6,
+  "has_polishing": true,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "sword"
+    ],
+  "pattern": [
+    " i ",
+    "iii",
+    "ihi"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/bronze"
+    },
+    "h": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:bronze_greatsword",
+    "count": 1
+  },
+  "show_notification": true
+}

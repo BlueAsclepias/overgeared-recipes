@@ -1,0 +1,29 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 2,
+  "has_polishing": true,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "tier": "stone",
+  "pattern": [
+    " i ",
+    "ii ",
+    "ih "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/gold"
+    },
+    "h": {
+      "tag": "spartanweaponry:poles"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:golden_halberd",
+    "count": 1
+  },
+  "show_notification": true
+}

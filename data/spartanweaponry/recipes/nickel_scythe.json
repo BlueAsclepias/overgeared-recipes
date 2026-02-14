@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 2,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "tier": "stone",
+  "pattern": [
+    "ii ",
+    "  i",
+    " p "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/nickel"
+    },
+    "p": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:nickel_scythe",
+    "count": 1
+  },
+  "show_notification": true
+}

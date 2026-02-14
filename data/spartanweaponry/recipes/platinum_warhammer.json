@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 5,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "blunt_weapon"
+    ],
+  "tier": "above_b",
+  "pattern": [
+    " i ",
+    "ii ",
+    " h "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/platinum"
+    },
+    "h": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:platinum_warhammer",
+    "count": 1
+  },
+  "show_notification": true
+}

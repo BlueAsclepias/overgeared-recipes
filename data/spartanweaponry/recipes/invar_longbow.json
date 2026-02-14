@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "bow"
+      ],
+    "tier": "above_a",
+    "pattern": [
+      "bi ",
+      "i  ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/invar"
+      },
+      "b": {
+        "item": "spartanweaponry:wooden_longbow"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:invar_longbow",
+      "count": 1
+    },
+    "show_notification": true
+  }

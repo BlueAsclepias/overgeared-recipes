@@ -1,0 +1,29 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "dagger"
+      ],
+    "tier": "above_a",
+    "pattern": [
+      " i ",
+      "ih ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/constantan"
+      },
+      "h": {
+        "tag": "spartanweaponry:handles"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:constantan_parrying_dagger",
+      "count": 1
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,29 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 3,
+  "has_polishing": true,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "tier": "above_b",
+  "pattern": [
+    " i ",
+    " h ",
+    "   "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/platinum"
+    },
+    "h": {
+      "tag": "spartanweaponry:poles"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:platinum_spear",
+    "count": 1
+  },
+  "show_notification": true
+}

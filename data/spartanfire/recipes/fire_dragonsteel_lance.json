@@ -1,0 +1,32 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 5,
+  "has_polishing": true,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "tier": "above_b",
+  "pattern": [
+    "  i",
+    "ip ",
+    "hi "
+  ],
+  "key": {
+    "i": {
+      "item": "iceandfire:dragonsteel_fire_ingot"
+    },
+    "h": {
+      "item": "spartanfire:witherbone_handle"
+    },
+    "p": {
+      "item": "spartanfire:witherbone_pole"
+    }
+  },
+  "result": {
+    "item": "spartanfire:fire_dragonsteel_lance",
+    "count": 1
+  },
+  "show_notification": true
+}

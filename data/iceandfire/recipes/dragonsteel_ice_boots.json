@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 6,
+    "has_quality": true,
+    "blueprint": [
+        "boots"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      "   ",
+      "i i",
+      "i i"
+    ],
+    "key": {
+      "i": {
+        "item": "iceandfire:dragonsteel_ice_ingot"
+      }
+    },
+    "result": {
+      "item": "iceandfire:dragonsteel_ice_boots",
+      "count": 1
+    },
+    "show_notification": true
+  }

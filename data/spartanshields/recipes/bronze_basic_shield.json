@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": false,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "shield"
+      ],
+    "pattern": [
+      " i ",
+      "isi",
+      " i "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/bronze"
+      },
+      "s": {
+        "item": "spartanshields:wooden_basic_shield"
+      }
+    },
+    "result": {
+      "item": "spartanshields:bronze_basic_shield",
+      "count": 1
+    },
+    "show_notification": true
+  }

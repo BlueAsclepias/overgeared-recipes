@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 2,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "tier": "stone",
+  "pattern": [
+    "  i",
+    " p ",
+    "i  "
+  ],
+  "key": {
+    "i": {
+      "item": "overgeared:heated_copper_ingot"
+    },
+    "p": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:copper_quarterstaff",
+    "count": 1
+  },
+  "show_notification": true
+}

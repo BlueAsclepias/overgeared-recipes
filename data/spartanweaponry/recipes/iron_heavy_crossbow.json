@@ -1,0 +1,27 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 2,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "crossbow"
+    ],
+  "pattern": [
+    "bi ",
+    "i  ",
+    "   "
+  ],
+  "key": {
+    "i": {
+      "item": "overgeared:heated_iron_ingot"
+    },
+    "b": {
+      "item": "spartanweaponry:wooden_heavy_crossbow"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:iron_heavy_crossbow",
+    "count": 1
+  },
+  "show_notification": true
+}

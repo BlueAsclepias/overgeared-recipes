@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_polishing": false,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "shield"
+      ],
+    "pattern": [
+      " i ",
+      "isi",
+      " i "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      },
+      "s": {
+        "item": "spartanshields:wooden_basic_shield"
+      }
+    },
+    "result": {
+      "item": "spartanshields:iron_basic_shield",
+      "count": 1
+    },
+    "show_notification": true
+  }

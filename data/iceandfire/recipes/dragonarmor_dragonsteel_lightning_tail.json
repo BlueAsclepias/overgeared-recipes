@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 5,
+    "has_quality": true,
+    "blueprint": [
+        "dragon_armor"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      "   ",
+      "  b",
+      "bb "
+    ],
+    "key": {
+      "b": {
+        "item": "iceandfire:dragonsteel_lightning_block"
+      }
+    },
+    "result": {
+      "item": "iceandfire:dragonarmor_dragonsteel_lightning_neck",
+      "count": 1
+    },
+    "show_notification": true
+  }

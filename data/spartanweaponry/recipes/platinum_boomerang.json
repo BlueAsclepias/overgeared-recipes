@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "thrown"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      "ib ",
+      "   ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/platinum"
+      },
+      "b": {
+        "item": "spartanweaponry:wooden_boomerang"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:platinum_boomerang",
+      "count": 1
+    },
+    "show_notification": true
+  }

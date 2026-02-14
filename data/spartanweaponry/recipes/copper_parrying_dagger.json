@@ -1,0 +1,29 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 1,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "dagger"
+      ],
+    "tier": "stone",
+    "pattern": [
+      " i ",
+      "ih ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_copper_ingot"
+      },
+      "h": {
+        "tag": "spartanweaponry:handles"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:copper_parrying_dagger",
+      "count": 1
+    },
+    "show_notification": true
+  }

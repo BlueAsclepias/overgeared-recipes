@@ -1,0 +1,29 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 1,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "thrown"
+      ],
+    "tier": "stone",
+    "pattern": [
+      "hi ",
+      " i ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/silver"
+      },
+      "h": {
+        "item": "spartanweaponry:handle"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:silver_tomahawk",
+      "count": 1
+    },
+    "show_notification": true
+  }

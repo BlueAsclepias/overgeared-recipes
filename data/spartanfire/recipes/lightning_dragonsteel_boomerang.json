@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "thrown"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      "ib ",
+      "   ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "item": "iceandfire:dragonsteel_lightning_ingot"
+      },
+      "b": {
+        "item": "spartanfire:dragon_bone_boomerang"
+      }
+    },
+    "result": {
+      "item": "spartanfire:lightning_dragonsteel_boomerang",
+      "count": 1
+    },
+    "show_notification": true
+  }

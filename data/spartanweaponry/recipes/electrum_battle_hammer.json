@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 5,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "blunt_weapon"
+    ],
+  "tier": "stone",
+  "pattern": [
+    "iii",
+    "iii",
+    " h "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/electrum"
+    },
+    "h": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:electrum_battle_hammer",
+    "count": 1
+  },
+  "show_notification": true
+}

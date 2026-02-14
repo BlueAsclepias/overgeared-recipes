@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "thrown"
+      ],
+    "pattern": [
+      "   ",
+      "hi ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      },
+      "h": {
+        "tag": "spartanweaponry:handles"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:iron_throwing_knife",
+      "count": 1
+    },
+    "show_notification": true
+  }

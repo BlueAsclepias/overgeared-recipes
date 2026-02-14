@@ -1,0 +1,27 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 5,
+    "has_quality": true,
+    "blueprint": [
+        "axe"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      "ii ",
+      "ib ",
+      " b "
+    ],
+    "key": {
+      "i": {
+        "item": "iceandfire:dragonsteel_lightning_ingot"
+      },
+      "b": {
+        "item": "iceandfire:witherbone"
+      }
+    },
+    "result": {
+      "item": "iceandfire:dragonsteel_lightning_axe",
+      "count": 1
+    },
+    "show_notification": true
+  }

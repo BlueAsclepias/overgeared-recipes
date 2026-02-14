@@ -1,0 +1,32 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 7,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "axe"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      "iii",
+      "isi",
+      " h "
+    ],
+    "key": {
+      "i": {
+        "item": "iceandfire:dragonsteel_fire_ingot"
+      },
+      "h": {
+        "item": "spartanfire:witherbone_handle"
+      },
+      "s": {
+        "item": "iceandfire:witherbone"
+      }
+    },
+    "result": {
+      "item": "spartanfire:fire_dragonsteel_battleaxe",
+      "count": 1
+    },
+    "show_notification": true
+  }

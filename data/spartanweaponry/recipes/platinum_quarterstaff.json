@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 4,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "tier": "above_b",
+  "pattern": [
+    "  i",
+    " p ",
+    "i  "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/platinum"
+    },
+    "p": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:platinum_quarterstaff",
+    "count": 1
+  },
+  "show_notification": true
+}

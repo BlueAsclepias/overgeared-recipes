@@ -1,0 +1,32 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 4,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "axe"
+      ],
+    "tier": "stone",
+    "pattern": [
+      "iii",
+      "isi",
+      " h "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/silver"
+      },
+      "h": {
+        "item": "spartanweaponry:handle"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:silver_battleaxe",
+      "count": 1
+    },
+    "show_notification": true
+  }

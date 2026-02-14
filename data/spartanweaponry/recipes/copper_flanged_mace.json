@@ -1,0 +1,31 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "blunt_weapon"
+      ],
+    "tier": "stone",
+    "pattern": [
+      " ii",
+      " si",
+      "h  "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_copper_ingot"
+      },
+      "h": {
+        "item": "spartanweaponry:handle"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:copper_flanged_mace",
+      "count": 1
+    },
+    "show_notification": true
+  }

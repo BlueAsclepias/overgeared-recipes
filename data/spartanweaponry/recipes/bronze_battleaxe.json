@@ -1,0 +1,31 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 5,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "axe"
+      ],
+    "pattern": [
+      "iii",
+      "isi",
+      " h "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/bronze"
+      },
+      "h": {
+        "item": "spartanweaponry:handle"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:bronze_battleaxe",
+      "count": 1
+    },
+    "show_notification": true
+  }

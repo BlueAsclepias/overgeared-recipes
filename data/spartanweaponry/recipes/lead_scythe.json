@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 4,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "tier": "above_a",
+  "pattern": [
+    "ii ",
+    "  i",
+    " p "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/lead"
+    },
+    "p": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:lead_scythe",
+    "count": 1
+  },
+  "show_notification": true
+}

@@ -1,0 +1,29 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "sword"
+      ],
+    "tier": "stone",
+    "pattern": [
+      " i ",
+      " i ",
+      "ih "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_copper_ingot"
+      },
+      "h": {
+        "item": "spartanweaponry:handle"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:copper_saber",
+      "count": 1
+    },
+    "show_notification": true
+  }

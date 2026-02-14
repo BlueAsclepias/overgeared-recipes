@@ -1,0 +1,32 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 5,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "axe"
+      ],
+    "tier": "above_a",
+    "pattern": [
+      "iii",
+      "isi",
+      " h "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_steel_ingot"
+      },
+      "h": {
+        "item": "spartanweaponry:handle"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:steel_battleaxe",
+      "count": 1
+    },
+    "show_notification": true
+  }

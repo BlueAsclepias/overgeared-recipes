@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 3,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "thrown"
+    ],
+  "tier": "above_b",
+  "pattern": [
+    "   ",
+    "pi ",
+    "   "
+  ],
+  "key": {
+    "i": {
+      "item": "iceandfire:dragonsteel_fire_ingot"
+    },
+    "p": {
+      "item": "spartanfire:witherbone_pole"
+    }
+  },
+  "result": {
+    "item": "spartanfire:fire_dragonsteel_javelin",
+    "count": 1
+  },
+  "show_notification": true
+}

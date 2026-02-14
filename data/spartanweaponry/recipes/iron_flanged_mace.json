@@ -1,0 +1,30 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 3,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "blunt_weapon"
+    ],
+  "pattern": [
+    " ii",
+    " si",
+    "h  "
+  ],
+  "key": {
+    "i": {
+      "item": "overgeared:heated_iron_ingot"
+    },
+    "h": {
+      "item": "spartanweaponry:handle"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:iron_flanged_mace",
+    "count": 1
+  },
+  "show_notification": true
+}

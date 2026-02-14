@@ -1,0 +1,29 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 4,
+  "has_polishing": true,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "sword"
+    ],
+  "tier": "stone",
+  "pattern": [
+    " i ",
+    "iii",
+    "ihi"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/silver"
+    },
+    "h": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:silver_greatsword",
+    "count": 1
+  },
+  "show_notification": true
+}

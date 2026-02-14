@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 5,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "tier": "above_b",
+  "pattern": [
+    "ii ",
+    "  i",
+    " p "
+  ],
+  "key": {
+    "i": {
+      "item": "iceandfire:dragonsteel_lightning_ingot"
+    },
+    "p": {
+      "item": "spartanfire:witherbone_pole"
+    }
+  },
+  "result": {
+    "item": "spartanfire:lightning_dragonsteel_scythe",
+    "count": 1
+  },
+  "show_notification": true
+}

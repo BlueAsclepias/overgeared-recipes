@@ -1,0 +1,27 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 3,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "pattern": [
+    "ii ",
+    "  i",
+    " p "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/bronze"
+    },
+    "p": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:bronze_scythe",
+    "count": 1
+  },
+  "show_notification": true
+}

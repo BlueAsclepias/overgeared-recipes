@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 5,
+    "need_quenching": true,
+    "tier": "stone",
+    "pattern": [
+      " s ",
+      " i ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_netherite_alloy"
+      },
+      "s": {
+        "item": "minecraft:string"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:huge_quiver_brace",
+      "count": 1
+    },
+    "show_notification": true
+  }

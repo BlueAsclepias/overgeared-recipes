@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 4,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "blunt_weapon"
+    ],
+  "tier": "above_a",
+  "pattern": [
+    " i ",
+    "ii ",
+    " h "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/aluminum"
+    },
+    "h": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:aluminum_warhammer",
+    "count": 1
+  },
+  "show_notification": true
+}

@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 4,
+  "has_polishing": true,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "pattern": [
+    " i ",
+    "ii ",
+    "ih "
+  ],
+  "key": {
+    "i": {
+      "item": "overgeared:heated_iron_ingot"
+    },
+    "h": {
+      "tag": "spartanweaponry:poles"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:iron_halberd",
+    "count": 1
+  },
+  "show_notification": true
+}

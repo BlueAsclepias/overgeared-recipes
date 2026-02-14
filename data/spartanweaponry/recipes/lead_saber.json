@@ -1,0 +1,29 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 4,
+  "has_polishing": true,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "sword"
+    ],
+  "tier": "above_a",
+  "pattern": [
+    " i ",
+    " i ",
+    "ih "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/lead"
+    },
+    "h": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:lead_saber",
+    "count": 1
+  },
+  "show_notification": true
+}

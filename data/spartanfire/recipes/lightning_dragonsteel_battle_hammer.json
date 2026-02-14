@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 8,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "blunt_weapon"
+    ],
+  "tier": "above_b",
+  "pattern": [
+    "iii",
+    "iii",
+    " h "
+  ],
+  "key": {
+    "i": {
+      "item": "iceandfire:dragonsteel_lightning_ingot"
+    },
+    "h": {
+      "item": "spartanfire:witherbone_handle"
+    }
+  },
+  "result": {
+    "item": "spartanfire:lightning_dragonsteel_battle_hammer",
+    "count": 1
+  },
+  "show_notification": true
+}

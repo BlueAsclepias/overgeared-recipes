@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 1,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "thrown"
+      ],
+    "tier": "stone",
+    "pattern": [
+      "ib ",
+      "   ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_copper_ingot"
+      },
+      "b": {
+        "item": "spartanweaponry:wooden_boomerang"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:copper_boomerang",
+      "count": 1
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,29 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "thrown"
+      ],
+    "tier": "above_a",
+    "pattern": [
+      "   ",
+      "hi ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/invar"
+      },
+      "h": {
+        "tag": "spartanweaponry:handles"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:invar_throwing_knife",
+      "count": 1
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 4,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "bow"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      "bi ",
+      "i  ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/platinum"
+      },
+      "b": {
+        "item": "spartanweaponry:wooden_longbow"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:platinum_longbow",
+      "count": 1
+    },
+    "show_notification": true
+  }

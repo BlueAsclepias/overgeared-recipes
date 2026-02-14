@@ -1,0 +1,27 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 1,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "thrown"
+      ],
+    "pattern": [
+      "ib ",
+      "   ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/bronze"
+      },
+      "b": {
+        "item": "spartanweaponry:wooden_boomerang"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:bronze_boomerang",
+      "count": 1
+    },
+    "show_notification": true
+  }

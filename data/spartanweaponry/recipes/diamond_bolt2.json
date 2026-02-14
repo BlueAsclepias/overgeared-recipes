@@ -1,0 +1,26 @@
+{
+    "type": "overgeared:fletching",
+    "material": {
+      "feather": {
+        "item": "minecraft:feather"
+      },
+      "shaft": {
+        "tag": "forge:nuggets/iron"
+      },
+      "tip": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+        "count": 6,
+        "item": "spartanweaponry:diamond_bolt"
+      },
+      "result_lingering": {
+        "count": 8,
+        "item": "spartanweaponry:diamond_tipped_bolt"
+      },
+      "result_tipped": {
+        "count": 8,
+        "item": "spartanweaponry:diamond_tipped_bolt"
+      }
+}

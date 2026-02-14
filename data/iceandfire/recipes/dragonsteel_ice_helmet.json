@@ -1,0 +1,24 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 7,
+    "has_quality": true,
+    "blueprint": [
+        "helmet"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      "   ",
+      "iii",
+      "i i"
+    ],
+    "key": {
+      "i": {
+        "item": "iceandfire:dragonsteel_ice_ingot"
+      }
+    },
+    "result": {
+      "item": "iceandfire:dragonsteel_ice_helmet",
+      "count": 1
+    },
+    "show_notification": true
+  }

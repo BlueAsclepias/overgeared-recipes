@@ -1,0 +1,29 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "thrown"
+      ],
+    "tier": "above_b",
+    "pattern": [
+      "   ",
+      "hi ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/platinum"
+      },
+      "h": {
+        "tag": "spartanweaponry:handles"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:platinum_throwing_knife",
+      "count": 1
+    },
+    "show_notification": true
+  }

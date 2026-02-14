@@ -1,0 +1,32 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 6,
+    "has_polishing": true,
+    "has_quality": true,
+    "need_quenching": true,
+    "blueprint": [
+        "axe"
+      ],
+    "tier": "above_a",
+    "pattern": [
+      "iii",
+      "isi",
+      " h "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/aluminum"
+      },
+      "h": {
+        "item": "spartanweaponry:handle"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "spartanweaponry:aluminum_battleaxe",
+      "count": 1
+    },
+    "show_notification": true
+  }

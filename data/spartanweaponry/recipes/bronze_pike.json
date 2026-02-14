@@ -1,0 +1,28 @@
+{
+  "type": "overgeared:forging",
+  "hammering": 1,
+  "has_polishing": true,
+  "has_quality": true,
+  "need_quenching": true,
+  "blueprint": [
+      "polearm"
+    ],
+  "pattern": [
+    " i ",
+    " h ",
+    " h "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/bronze"
+    },
+    "h": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "spartanweaponry:bronze_pike",
+    "count": 1
+  },
+  "show_notification": true
+}
