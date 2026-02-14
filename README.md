@@ -28,6 +28,7 @@ This datapack currently adds compatibility for:
 *   **\[Let’s Do\] Herbal Brews**
 *   **Farmer’s Delight**
 *   **Hardcore Torches**
+*   **Ice and Fire**
 *   **Iron’s Spells and Spellbooks**
 *   **Jaden’s Nether Expansion Delight**
 *   **Locks – Unofficial**
@@ -41,6 +42,9 @@ This datapack currently adds compatibility for:
 *   **Runic Enchanting**
 *   **Realm RPG: Sea Dwellers**
 *   **Smallships**
+*   **Spartan Weaponry**
+*   **Spartan Shields**
+*   **Spartan Weaponry: Ice and Fire**
 *   **Thin Air**
 *   **Tough As Nails**
 *   **TheDragon’s Traps Mod**
