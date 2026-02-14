@@ -88,7 +88,7 @@ For certain mod compatibilities, I've included new tool types for blueprints, ho
 
 To configure this, go to your instance folder and navigate to config and look for overgeared-common.toml. In there, look for a line that contains `availableToolTypes` and replace the entire value after the `=` sign with this:
 
-`["sword", "axe", "pickaxe", "shovel", "hoe", "knife", "fillet_knife", "machete", "cleaver", "mattock", "bow", "helmet", "chestplate", "leggings", "boots", "horse_armor"]`
+`["sword", "axe", "pickaxe", "shovel", "hoe", "knife", "fillet_knife", "machete", "cleaver", "mattock", "bow", "helmet", "chestplate", "leggings", "boots", "horse_armor", "thrown", "staff", "polearm", "blunt_weapon", "dagger", "shield", "dragon_armor"]`
 
 ***
 
