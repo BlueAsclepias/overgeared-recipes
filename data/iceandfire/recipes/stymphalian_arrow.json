@@ -1,0 +1,18 @@
+{
+    "type": "overgeared:fletching",
+    "material": {
+      "feather": {
+        "item": "iceandfire:stymphalian_bird_feather"
+      },
+      "shaft": {
+        "tag": "forge:rods/wooden"
+      },
+      "tip": {
+        "item": "minecraft:flint"
+      }
+    },
+    "result": {
+        "count": 6,
+        "item": "iceandfire:stymphalian_arrow"
+      }
+}

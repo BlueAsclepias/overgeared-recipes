@@ -1,0 +1,15 @@
+{
+    "type": "overgeared:fletching",
+    "material": {
+      "shaft": {
+        "item": "iceandfire:dragonbone"
+      },
+      "tip": {
+        "item": "iceandfire:wither_shard"
+      }
+    },
+    "result": {
+        "count": 6,
+        "item": "iceandfire:dragonbone_arrow"
+      }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "overgeared:fletching",
+    "material": {
+      "feather": {
+        "item": "iceandfire:amphithere_feather"
+      },
+      "shaft": {
+        "tag": "forge:rods/wooden"
+      },
+      "tip": {
+        "item": "minecraft:flint"
+      }
+    },
+    "result": {
+        "count": 6,
+        "item": "iceandfire:amphithere_arrow"
+      }
+}
