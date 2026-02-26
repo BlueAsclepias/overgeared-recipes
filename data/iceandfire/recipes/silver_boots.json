@@ -1,0 +1,23 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_quality": true,
+    "blueprint": [
+        "boots"
+      ],
+    "pattern": [
+      "i i",
+      "i i",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/silver"
+      }
+    },
+    "result": {
+      "item": "iceandfire:silver_boots",
+      "count": 1
+    },
+    "show_notification": true
+  }

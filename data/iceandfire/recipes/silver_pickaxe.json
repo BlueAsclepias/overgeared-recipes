@@ -5,24 +5,23 @@
     "has_polishing": true,
     "need_quenching": true,
     "blueprint": [
-        "shovel"
+        "pickaxe"
       ],
-    "tier": "above_b",
     "pattern": [
-      " i ",
-      " b ",
-      " b "
+      "iii",
+      " s ",
+      " s "
     ],
     "key": {
       "i": {
-        "item": "iceandfire:dragonsteel_ice_ingot"
+        "tag": "forge:ingots/silver"
       },
-      "b": {
-        "item": "iceandfire:witherbone"
+      "s": {
+        "tag": "forge:rods/wooden"
       }
     },
     "result": {
-      "item": "iceandfire:dragonsteel_ice_shovel",
+      "item": "iceandfire:silver_pickaxe",
       "count": 1
     },
     "show_notification": true

@@ -1,0 +1,23 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 5,
+    "has_quality": true,
+    "blueprint": [
+        "chestplate"
+      ],
+    "pattern": [
+      "i i",
+      "iii",
+      "iii"
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/silver"
+      }
+    },
+    "result": {
+      "item": "iceandfire:silver_chestplate",
+      "count": 1
+    },
+    "show_notification": true
+  }

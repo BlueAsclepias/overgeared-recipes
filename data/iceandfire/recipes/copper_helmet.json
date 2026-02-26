@@ -1,0 +1,23 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_quality": true,
+    "blueprint": [
+        "helmet"
+      ],
+    "pattern": [
+      "iii",
+      "i i",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_copper_ingot"
+      }
+    },
+    "result": {
+      "item": "iceandfire:copper_helmet",
+      "count": 1
+    },
+    "show_notification": true
+  }

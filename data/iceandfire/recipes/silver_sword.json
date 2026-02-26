@@ -1,28 +1,27 @@
 {
     "type": "overgeared:forging",
-    "hammering": 3,
+    "hammering": 2,
     "has_quality": true,
     "has_polishing": true,
     "need_quenching": true,
     "blueprint": [
-        "shovel"
+        "sword"
       ],
-    "tier": "above_b",
     "pattern": [
       " i ",
-      " b ",
-      " b "
+      " i ",
+      " s "
     ],
     "key": {
       "i": {
-        "item": "iceandfire:dragonsteel_ice_ingot"
+        "tag": "forge:ingots/silver"
       },
-      "b": {
-        "item": "iceandfire:witherbone"
+      "s": {
+        "tag": "forge:rods/wooden"
       }
     },
     "result": {
-      "item": "iceandfire:dragonsteel_ice_shovel",
+      "item": "iceandfire:silver_sword",
       "count": 1
     },
     "show_notification": true
