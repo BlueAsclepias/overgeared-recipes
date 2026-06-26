@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_quality": true,
+    "has_polishing": true,
+    "need_quenching": false,
+    "blueprint": [
+        "sword"
+      ],
+    "pattern": [
+      " ii",
+      "iii",
+      "pi "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/gold"
+      },
+      "p": {
+        "tag": "minecraft:planks"
+      }
+    },
+    "result": {
+      "item": "epicfight:golden_greatsword",
+      "count": 1
+    },
+    "show_notification": true
+  }

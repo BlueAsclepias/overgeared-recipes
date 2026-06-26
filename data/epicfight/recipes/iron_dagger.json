@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_quality": true,
+    "has_polishing": true,
+    "need_quenching": true,
+    "blueprint": [
+        "sword"
+      ],
+    "pattern": [
+      " i ",
+      "s  ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "epicfight:iron_dagger",
+      "count": 1
+    },
+    "show_notification": true
+  }

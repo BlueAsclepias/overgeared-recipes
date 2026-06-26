@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 3,
+    "has_quality": true,
+    "has_polishing": true,
+    "need_quenching": true,
+    "blueprint": [
+        "sword"
+      ],
+    "pattern": [
+      "  i",
+      " i ",
+      "s  "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      },
+      "s": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "result": {
+      "item": "epicfight:iron_longsword",
+      "count": 1
+    },
+    "show_notification": true
+  }

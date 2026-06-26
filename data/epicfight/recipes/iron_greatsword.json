@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 5,
+    "has_quality": true,
+    "has_polishing": true,
+    "need_quenching": true,
+    "blueprint": [
+        "sword"
+      ],
+    "pattern": [
+      " ii",
+      "iii",
+      "pi "
+    ],
+    "key": {
+      "i": {
+        "item": "overgeared:heated_iron_ingot"
+      },
+      "p": {
+        "tag": "minecraft:planks"
+      }
+    },
+    "result": {
+      "item": "epicfight:iron_greatsword",
+      "count": 1
+    },
+    "show_notification": true
+  }

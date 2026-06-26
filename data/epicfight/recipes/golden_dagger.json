@@ -1,0 +1,28 @@
+{
+    "type": "overgeared:forging",
+    "hammering": 2,
+    "has_quality": true,
+    "has_polishing": true,
+    "need_quenching": false,
+    "blueprint": [
+        "sword"
+      ],
+    "pattern": [
+      " i ",
+      "s  ",
+      "   "
+    ],
+    "key": {
+      "i": {
+        "tag": "forge:ingots/gold"
+      },
+      "s": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "epicfight:golden_dagger",
+      "count": 1
+    },
+    "show_notification": true
+  }
